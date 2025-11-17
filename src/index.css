@@ -1,1 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: inherit;
+  list-style: none;
+}
 
+body {
+  background: linear-gradient(154.48deg, #2a5af7 4.61%, #ab229b 78.86%);
+}
